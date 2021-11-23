@@ -1,7 +1,7 @@
 {
  "song": {
   "sectionLengths": [],
-  "player1": "aloo-no-necklace",
+  "player1": "bf",
   "notes": [
    {
     "sectionNotes": [
@@ -3770,7 +3770,7 @@
   "player2": "dad",
   "opponentHealth": 2,
   "startingHealth": 1,
-  "song": "RIP",
+  "song": "Fresh",
   "needsVoices": true,
   "sections": 0,
   "validScore": true,

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="marineAquaSuisei.png">
+<TextureAtlas imagePath="bottomBop.png">
 	<!-- Created with Adobe Animate version 21.0.8.42666 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="Bottom Level Boppers0000" x="10" y="10" width="746" height="1008" frameX="0" frameY="-16" frameWidth="746" frameHeight="1024"/>

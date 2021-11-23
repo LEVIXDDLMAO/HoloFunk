@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="AlooCar.png">
+<TextureAtlas imagePath="bfCar.png">
 	<!-- Created with Adobe Animate version 20.0.3.25487 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="BF HEY!!0000" x="2" y="2" width="421" height="443" frameX="-2" frameY="0" frameWidth="433" frameHeight="446"/>
